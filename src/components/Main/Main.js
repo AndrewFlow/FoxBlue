@@ -12,7 +12,7 @@ import Footer from '../Footer/Footer';
 import './Main.css';
 
 
-function Main({}) {
+function Main() {
     return (
       <>
         <Header  isMain={true}/>
