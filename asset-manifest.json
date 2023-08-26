@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FoxBlue/static/css/main.af44ea19.css",
+    "main.js": "/FoxBlue/static/js/main.338b493e.js",
+    "static/js/787.37bbf21c.chunk.js": "/FoxBlue/static/js/787.37bbf21c.chunk.js",
+    "static/media/water.mp4": "/FoxBlue/static/media/water.4bf4400751649af94ec4.mp4",
+    "static/media/workprocess_vertical-1.png": "/FoxBlue/static/media/workprocess_vertical-1.9158454f5b5542acc2ec.png",
+    "static/media/workprocess_vertical-2.png": "/FoxBlue/static/media/workprocess_vertical-2.3475e8d0367bfa26f2b8.png",
+    "static/media/BlenderPro-Bold.woff": "/FoxBlue/static/media/BlenderPro-Bold.fc9db5751a382ad8879a.woff",
+    "static/media/BlenderPro-Medium.woff": "/FoxBlue/static/media/BlenderPro-Medium.e6de85f65ede989c1934.woff",
+    "static/media/BlenderPro-Bold.woff2": "/FoxBlue/static/media/BlenderPro-Bold.1848317044de0fb8793f.woff2",
+    "static/media/BlenderPro-Medium.woff2": "/FoxBlue/static/media/BlenderPro-Medium.2e8418291f661fd81f6f.woff2",
+    "index.html": "/FoxBlue/index.html",
+    "main.af44ea19.css.map": "/FoxBlue/static/css/main.af44ea19.css.map",
+    "main.338b493e.js.map": "/FoxBlue/static/js/main.338b493e.js.map",
+    "787.37bbf21c.chunk.js.map": "/FoxBlue/static/js/787.37bbf21c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af44ea19.css",
+    "static/js/main.338b493e.js"
+  ]
+}
