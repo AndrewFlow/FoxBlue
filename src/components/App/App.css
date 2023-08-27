@@ -1,6 +1,6 @@
 body {
-
-    background-color: rgb(27, 16, 22);
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #060606 32px), repeating-linear-gradient(#000000, #000000);
+    background-color: #060606;
     font-family: "Bender", sans-serif;
     margin: 0 auto;
     min-width: 320px;

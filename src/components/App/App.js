@@ -23,7 +23,7 @@ const App = () => {
       {isLoading ? <Preloader /> :
         <>
           <Routes>
-            <Route path="/" element=
+            <Route path="/FoxBlue" element=
               {
                 <Main />
               }

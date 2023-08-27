@@ -34,7 +34,7 @@ function Header({isMain}) {
                         <nav>
                             <ul className="header__links">
                                 <li className="header__item">
-                                    <Link className="header__link" to ="/">На Главную</Link>
+                                    <Link className="header__link" to ="/FoxBlue">На Главную</Link>
                                 </li>
                             </ul>
                         </nav>
